@@ -18,6 +18,7 @@
 ![Dynamic Content](https://img.shields.io/badge/Dynamic%20Content-Available-673ab7?style=for-the-badge)
 [![Google Lighthouse](https://img.shields.io/badge/Lighthouse-Audit-00B0FF?style=for-the-badge&logo=lighthouse&logoColor=white)](./assets/downloads/lighthouse-performance-report.pdf)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/26170183-54f1-462d-867e-5d5c50b1f17c/deploy-status)](https://faq-accordion-fm-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%205-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.frontend-mentor-faq-accordion&left_text=repo%20views)
@@ -96,7 +97,7 @@ Google Lighthouse was used to confirm optimal performance, accessibility, and be
 
 ## 🌐 Live Demo
 
-Or you can check out the 👉 [live website here](LINK)
+Or you can check out the 👉 [live website here](https://faq-accordion-fm-jiro.netlify.app/)
 
 ---
 
@@ -113,10 +114,3 @@ Created by **Elmar Chavez**
 🗓️ Month/Year: **August 2025**
 
 📚 Journey: **5<sup>th</sup>** month of learning _frontend web development_.
-
-<!--
-
-FRONTEND MENTOR TAGS:
-html css javascript vscode git github netlify 5th-month frontend-mentor project perfectpixel lighthouse theme-toggle
-
--->
